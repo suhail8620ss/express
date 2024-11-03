@@ -17,7 +17,7 @@
 * [TC (Technical Committee)](#tc-technical-committee)
 * [Triagers](#triagers)
 * [License](#license)
-
+# Suhail khan
 
 [![NPM Version][npm-version-image]][npm-url]
 [![NPM Install Size][npm-install-size-image]][npm-install-size-url]
